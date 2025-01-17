@@ -1,8 +1,8 @@
-# myapp
+# Jogo Da Velha 
 
-A new Flutter project.
+Um novo projeto Flutter.
 
-## Getting Started
+## Começando
 
 This project is a starting point for a Flutter application.
 
